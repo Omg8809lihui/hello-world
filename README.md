@@ -1,2 +1,4 @@
 # hello-world
-Code resource library
+
+hi Friends：
+I'm glad to join the Git family, and hope to communicate a lot in the future.
